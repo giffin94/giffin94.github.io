@@ -21,15 +21,21 @@ body, html {
     text-transform: uppercase;
     font: 20px "Lato", sans-serif;
     color: white;
-    text-align:start
+    text-align:start;
   }
 
   i {
-      color: darkslategrey
+      color: darkslategrey;
   }
   
   a {
-      color: white
+      color: white;
+      text-decoration: none;
+  }
+
+  a:hover {
+    color: grey;
+    text-decoration: underline;
   }
   
   .textSection {
