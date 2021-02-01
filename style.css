@@ -16,8 +16,14 @@ body, html {
     padding-top: 88px;
   }
   
+  .contactSection {
+      display: flex;
+      justify-content: flex-start;
+  }
+
   .contactItem {
     font-size: 10px;
+    margin-right: 12px;
   }
 
   h3 {
@@ -29,8 +35,8 @@ body, html {
   }
 
   i {
-      color: darkslategrey;
-      margin-right: 8px;
+      color: coral;
+      margin-right: 2px;
   }
   
   a {
