@@ -15,9 +15,9 @@ body, html {
   }
   
   .cd-logo {
-    background-image: url("Force\ of\ Will.png");
+    /* background-image: url("Force\ of\ Will.png"); */
     min-height: 100%;
-    background-size: auto;
+    /* background-size: auto; */
   }
   
   h3 {
