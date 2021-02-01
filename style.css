@@ -28,6 +28,10 @@ body, html {
       color: darkslategrey
   }
   
+  a {
+      color: white
+  }
+  
   .textSection {
     background-color:rgba(255, 0, 0, 0.2);
     padding:50px 80px;
