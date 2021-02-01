@@ -30,6 +30,6 @@ body, html {
   }
   
   .textSection {
-    /* background-color:#642580; */
+    background-color:rgba(255, 0, 0, 0.2);
     padding:50px 80px;
   }
