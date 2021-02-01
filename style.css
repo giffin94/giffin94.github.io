@@ -12,13 +12,7 @@ body, html {
     background-image: url("1567677.jpg");
     background-size: cover;
     min-height: 100%;
-  }
-  
-  .cd-logo {
-    background-image: url("1567677.jpg");
-    /* background-image: url("Force\ of\ Will.png"); */
-    min-height: 100%;
-    /* background-size: auto; */
+    padding-top: 88px;
   }
   
   h3 {
@@ -32,4 +26,6 @@ body, html {
   .textSection {
     background-color:rgba(255, 0, 0, 0.2);
     padding:50px 80px;
+    max-width: 1120px;
+    margin: auto
   }
