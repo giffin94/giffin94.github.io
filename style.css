@@ -16,6 +16,10 @@ body, html {
     padding-top: 88px;
   }
   
+  .contactItem {
+    font-size: 10px;
+  }
+
   h3 {
     letter-spacing: 5px;
     text-transform: uppercase;
