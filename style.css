@@ -17,7 +17,8 @@ body, html {
   }
   
   .headerSection {
-      
+      display: flex;
+      justify-content: space-between;
   }
 
   .headshotAvatar {
