@@ -64,6 +64,8 @@ body, html {
   }
   
   .textSection {
+    position: relative;
+    top: 88px;
     background-color:rgba(101, 115, 195, 0.6);
     padding:50px 80px;
     max-width: 1120px;
