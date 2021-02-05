@@ -33,7 +33,10 @@ body, html {
   .contactSection {
       display: flex;
       justify-content: flex-start;
-      max-width: 600px;
+  }
+
+  .contentSection {
+    max-width: 600px;
   }
 
   .contactItem {
