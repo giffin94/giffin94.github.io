@@ -57,10 +57,6 @@ body, html {
     text-align:start;
   }
 
-  caption {
-    margin-right: 12px;
-  }
-
   i {
       color: coral;
       margin-right: 2px;
@@ -83,4 +79,8 @@ body, html {
     padding:50px 80px;
     max-width: 1120px;
     margin: auto
+  }
+
+  li {
+    font-size: 12px;
   }
