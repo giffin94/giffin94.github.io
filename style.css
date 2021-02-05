@@ -47,14 +47,11 @@ body, html {
   }
 
   .contactItem {
+    display: flex;
+    align-items: baseline;
     font-size: 12px;
     margin-right: 12px;
   }
-
-  /* .divider {
-    width: 100%;
-    border: 1px solid lightslategray;
-  } */
 
   h3 {
     letter-spacing: 5px;
@@ -66,7 +63,7 @@ body, html {
 
   i {
       color: coral;
-      margin-right: 2px;
+      margin-right: 4px;
   }
   
   a {
