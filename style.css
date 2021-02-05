@@ -35,6 +35,11 @@ body, html {
       justify-content: flex-start;
   }
 
+  .contentWrapper {
+    display: flex;
+    flex-flow: wrap;
+  }
+
   .contentSection {
     max-width: 600px;
   }
