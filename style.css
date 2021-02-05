@@ -33,6 +33,7 @@ body, html {
   .contactSection {
       display: flex;
       justify-content: flex-start;
+      max-width: 600px;
   }
 
   .contactItem {
@@ -56,7 +57,7 @@ body, html {
   caption {
     margin-right: 12px;
   }
-  
+
   i {
       color: coral;
       margin-right: 2px;
