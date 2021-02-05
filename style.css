@@ -40,6 +40,11 @@ body, html {
     margin-right: 12px;
   }
 
+  .divider {
+    width: 100%;
+    border: 1px solid lightslategray;
+  }
+
   h3 {
     letter-spacing: 5px;
     text-transform: uppercase;
