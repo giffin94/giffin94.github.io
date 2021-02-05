@@ -46,6 +46,10 @@ body, html {
     border-top: 1px solid lightslategrey
   }
 
+  .contentSectionRight {
+    border-top: 1px solid lightslategrey
+  }
+
   .contactItem {
     display: flex;
     align-items: baseline;
