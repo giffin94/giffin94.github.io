@@ -53,6 +53,10 @@ body, html {
     text-align:start;
   }
 
+  caption {
+    margin-right: 12px;
+  }
+  
   i {
       color: coral;
       margin-right: 2px;
