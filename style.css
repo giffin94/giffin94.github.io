@@ -43,14 +43,15 @@ body, html {
   .contentSectionLeft {
     min-width: 600px;
     margin-right: 12px;
+    padding-right: 18px;
     flex: 3;
     border-top: 1px solid lightslategrey
   }
 
   .contentSectionRight {
     flex: 2;
-    min-width: 500px;
-    margin-right: 8px;
+    min-width: 400px;
+    margin-right: 12px;
     border-top: 1px solid lightslategrey
   }
 
