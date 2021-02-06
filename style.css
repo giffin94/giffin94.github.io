@@ -40,6 +40,7 @@ body, html {
   .contentWrapper {
     display: flex;
     flex-flow: wrap;
+    padding-bottom: 32px;
   }
 
   .contentSectionLeft {
@@ -64,9 +65,14 @@ body, html {
     margin-right: 12px;
   }
 
+  .experienceItem {
+    max-width: 600px;
+  }
+
   .skillSection {
     display: flex;
     flex-flow: wrap;
+    justify-content: flex-start;
   }
 
   .skillItem {
@@ -84,6 +90,11 @@ body, html {
     font: 20px "Lato", sans-serif;
     color: white;
     text-align:start;
+  }
+
+  h4 {
+    margin-top: 8px;
+    margin-bottom: 8px;
   }
 
   h5 {
