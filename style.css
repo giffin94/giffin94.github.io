@@ -24,6 +24,7 @@ body, html {
   .headshotAvatar {
     width: 80px;
     height: 80px;
+    margin: 12px;
     background: coral;
     -moz-border-radius: 40px;
     -webkit-border-radius: 40px;
