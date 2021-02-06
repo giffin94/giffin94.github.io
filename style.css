@@ -39,7 +39,6 @@ body, html {
   .contentWrapper {
     display: flex;
     flex-flow: wrap;
-    padding-bottom: 32px;
   }
 
   .contentSectionLeft {
