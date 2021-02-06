@@ -64,6 +64,15 @@ body, html {
     margin-right: 12px;
   }
 
+  .skillSection {
+    display: flex;
+    flex-flow: wrap;
+  }
+
+  .skillItem {
+    border-bottom: 1px dotted lightslategrey;
+  }
+
   h1 {
     margin-bottom: -30px;
   }
