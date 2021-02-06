@@ -27,7 +27,9 @@ body, html {
     background: coral;
     -moz-border-radius: 40px;
     -webkit-border-radius: 40px;
+    border: 1px solid coral;
     border-radius: 40px;
+    background-image: url("2768467.jpg");
   }
 
   .contactSection {
