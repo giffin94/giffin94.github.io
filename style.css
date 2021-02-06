@@ -51,8 +51,8 @@ body, html {
   }
 
   .contentSectionRight {
-    flex: 2;
-    min-width: 400px;
+    flex: 1;
+    min-width: 300px;
     margin-right: 12px;
     border-top: 1px solid lightslategrey
   }
@@ -71,6 +71,7 @@ body, html {
 
   .skillItem {
     border-bottom: 1px dotted lightslategrey;
+    margin-right: 12px;
   }
 
   h1 {
