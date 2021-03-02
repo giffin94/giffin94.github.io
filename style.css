@@ -16,8 +16,8 @@ body, html {
   }
   
   .headerSection {
-      display: flex;
-      justify-content: space-between;
+    display: flex;
+    justify-content: space-between;
   }
 
   .headshotAvatar {
@@ -35,9 +35,9 @@ body, html {
   }
 
   .contactSection {
-      display: flex;
-      justify-content: flex-start;
-      align-items: baseline;
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
   }
 
   .contentWrapper {
@@ -105,13 +105,13 @@ body, html {
   }
 
   i {
-      color: coral;
-      margin-right: 4px;
+    color: coral;
+    margin-right: 4px;
   }
   
   a {
-      color: inherit;
-      text-decoration: none;
+    color: inherit;
+    text-decoration: none;
   }
 
   a:hover {
@@ -135,4 +135,15 @@ body, html {
 
   li {
     font-size: 12px;
+  }
+  
+  @media only screen (max-width: 1118px){
+    .contentSectionLeft {
+      min-width: 600px;
+      margin-right: 12px;
+      margin-top: 24px;
+      padding-right: 18px;
+      flex: 3;
+      border-top: 1px solid lightslategrey
+    }
   }
