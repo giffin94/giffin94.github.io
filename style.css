@@ -75,6 +75,7 @@ body, html {
     display: flex;
     flex-flow: wrap;
     justify-content: flex-start;
+    margin-bottom: 12px;
   }
 
   .skillItem {
@@ -137,13 +138,3 @@ body, html {
     font-size: 12px;
   }
   
-  @media only screen (max-width: 1118px){
-    .contentSectionLeft {
-      min-width: 600px;
-      margin-right: 12px;
-      margin-top: 24px;
-      padding-right: 18px;
-      flex: 3;
-      border-top: 1px solid lightslategrey
-    }
-  }
